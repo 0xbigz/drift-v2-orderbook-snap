@@ -1,12 +1,12 @@
 import requests
 import os
+import pandas as pd
 
 x = requests.get('https://dlob.drift.trade/orders/json').json()
 
 market_to_oracle_map = pd.DataFrame(x['oracles']).set_index('marketIndex').to_dict()['price']
 market_to_oracle_map
 
-import pandas as pd
 df = pd.DataFrame([order['order'] for order in x['orders']])
 user = pd.DataFrame([order['user'] for order in x['orders']], columns=['user'])
 df = pd.concat([df, user],axis=1)

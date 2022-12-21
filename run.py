@@ -32,6 +32,9 @@ market_indexes = sorted(df.marketIndex.unique())
 for t in market_types:
     for i in market_indexes:
         mdf = df1[((df1.marketType==t) & (df1.marketIndex==i))]
+        if len(mdf)==0:
+            continue
+
         mdf = mdf[['price', 'baseAssetAmount', 'direction', 'user', 'status', 'orderType', 'marketType', 'slot', 'orderId', 'userOrderId',
        'marketIndex',  'baseAssetAmountFilled',
        'quoteAssetAmountFilled',  'reduceOnly', 'triggerPrice',

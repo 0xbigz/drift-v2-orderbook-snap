@@ -1,0 +1,14 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+1128.0,0.01,long,Do6srDEZVY4rifUbTbQxxa8qAZg1sFVfG8Hk49hwR6ui,open,limit,perp,167379042,1,0,2,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,1212.677818
+1197.0,0.4,long,FXEfDCCaLnRRouQZ1Pe7ZCFGQGz7q7gzAMUsRHD3uY5Y,open,limit,perp,168209379,102,0,2,0.0,0.0,True,0,above,short,False,False,0.0,10,0,0,0,1212.677818
+1212.655875,22.91,long,6F1EfXceDaRFgBGTg6tNetUkZbsp2YW7CCieeA9ZuY6j,open,limit,perp,168332958,96551,0,2,0.0,0.0,False,0,above,short,True,False,-0.021943,10,0,0,0,1212.677818
+1212.828746,19.292,short,6F1EfXceDaRFgBGTg6tNetUkZbsp2YW7CCieeA9ZuY6j,open,limit,perp,168332958,96550,0,2,0.0,0.0,False,0,above,short,True,False,0.150928,10,0,0,0,1212.677818
+1223.4,0.15,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,perp,168290162,290,0,2,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1231.23,0.1,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,perp,168290224,291,0,2,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1250.0,0.5,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,perp,168325873,292,0,2,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1254.0,1.0,short,5DT88jzJB2k9KsrW8cwEBThzpMDMp1a2MpQYhXv7ayg1,open,limit,perp,167230235,72,0,2,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1255.0,0.044,short,2zfir127aSjVs5QC6G8JYSWdbFTMxuRCeMdzVVgu6ut1,open,limit,perp,168055584,15,0,2,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,1212.677818
+1269.0,0.2,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,perp,168325945,293,0,2,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1291.0,1.0,short,5DT88jzJB2k9KsrW8cwEBThzpMDMp1a2MpQYhXv7ayg1,open,limit,perp,167542045,83,0,2,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1298.0,0.2,short,5DT88jzJB2k9KsrW8cwEBThzpMDMp1a2MpQYhXv7ayg1,open,limit,perp,166934330,51,0,2,0.076,98.648,True,0,above,long,True,False,0.0,10,0,0,0,1212.677818
+1350.0,2.108,short,AKMUgzS3MAJCVDzzzG7DuEj6CiXYKJWb2bNrNMMiC2QT,open,limit,perp,167290424,45,0,2,0.0,0.0,False,0,above,long,True,False,0.0,10,0,0,0,1212.677818

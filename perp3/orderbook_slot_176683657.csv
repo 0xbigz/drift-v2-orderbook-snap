@@ -1,0 +1,15 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+14.9,1.0,long,8LG4ms1XVgZ5aCJ1ZSD9kXGtU2agqSYK7tWnegUGSoZZ,open,limit,perp,176672439,20,0,3,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,15.708328
+15.11,40.0,long,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,176677216,51,0,3,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,15.708328
+15.31,30.0,long,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,176677192,50,0,3,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,15.708328
+15.51,30.0,long,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,176677174,49,0,3,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,15.708328
+15.657346,151.2,long,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17828,0,3,0.0,0.0,False,0,above,long,True,False,-0.050982,10,0,0,0,15.708328
+15.677405,113.4,long,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17827,0,3,0.0,0.0,False,0,above,long,True,False,-0.030923,10,0,0,0,15.708328
+15.697463,75.6,long,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17826,0,3,0.0,0.0,False,0,above,long,True,False,-0.010865,10,0,0,0,15.708328
+15.705525,2.2,long,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17824,0,3,0.0,0.0,False,0,above,long,True,False,-0.002803,10,0,0,0,15.708328
+15.710924,12.7,short,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17829,0,3,0.0,0.0,False,0,above,long,True,False,0.002596,10,0,0,0,15.708328
+15.71352,85.8,short,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17830,0,3,0.0,0.0,False,0,above,long,True,False,0.005192,10,0,0,0,15.708328
+15.716116,128.7,short,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17831,0,3,0.0,0.0,False,0,above,long,True,False,0.007788,10,0,0,0,15.708328
+15.726858,171.6,short,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17832,0,3,0.0,0.0,False,0,above,long,True,False,0.01853,10,0,0,0,15.708328
+15.731703,5.0,short,3QKpYGPuG8V2ZvN94E9k71ykdKTBtZQ6TEuMJeDGGWC8,open,limit,perp,176683648,17825,0,3,0.0,0.0,False,0,above,long,False,False,0.023375,10,0,0,0,15.708328
+15.926,147.2,short,ApzAziYn3iFYNpD3gmzUYqQwKPgYPk2Mp6Accb68mQkW,open,limit,perp,176648908,5,0,3,43.1,686.505225,False,0,above,long,False,False,0.0,10,0,0,0,15.708328

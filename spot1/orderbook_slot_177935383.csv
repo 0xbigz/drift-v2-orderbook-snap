@@ -1,0 +1,7 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+20.05,6.221,long,3MbuxM5qmFzLxD5BigH4aWbvJiLsgCiotz9MnWYyWs1g,open,limit,spot,177823806,11,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,22774.260327
+22774.195327,0.1,long,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,spot,177792039,13,0,1,0.0,0.0,False,0,above,long,False,False,-0.065,10,0,0,0,22774.260327
+22774.195327,0.1,long,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,spot,177792107,16,0,1,0.0,0.0,False,0,above,long,False,False,-0.065,10,0,0,0,22774.260327
+22774.195327,0.1,long,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,spot,177792207,21,0,1,0.0,0.0,False,0,above,long,False,False,-0.065,10,0,0,0,22774.260327
+22774.210327,500.0,long,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,spot,177791190,2,0,1,195.819,4334.612833,False,0,above,long,False,False,-0.05,10,0,0,0,22774.260327
+22874.260446,0.1,short,CwEBEMVPprhqJgRxjAqFUHhGFzG2s3ftzPxpXa4qx2Gq,open,limit,spot,176756100,29,0,1,0.0,0.0,False,0,above,long,True,False,100.000119,10,0,0,0,22774.260327

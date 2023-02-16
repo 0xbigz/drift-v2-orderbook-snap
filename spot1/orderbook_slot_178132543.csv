@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+23.456,1.0,short,5zpQtt1xcM5saqaHDFxaEuLfowLLUBQdCG1b5xqFK6eu,open,limit,spot,178120106,1337,0,1,0.0,0.0,False,0,above,long,True,False,0.0,10,0,0,0,24496.925
+25.25,50.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054612,960,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,24496.925
+26.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054219,956,0,1,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,24496.925
+28.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054386,958,0,1,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,24496.925
+28.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054474,959,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,24496.925
+24496.814,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178082255,808,0,1,0.0,0.0,False,0,above,long,True,False,-0.111,10,0,0,0,24496.925
+24496.864,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178082202,806,0,1,0.0,0.0,False,0,above,long,True,False,-0.061,10,0,0,0,24496.925
+24496.946,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178095304,813,0,1,690.2,15875.966289,False,0,above,long,True,False,0.021,10,0,0,0,24496.925
+24496.956,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178082181,805,0,1,468.688,11218.150788,False,0,above,long,True,False,0.031,10,0,0,0,24496.925
+24496.986,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178082202,807,0,1,0.0,0.0,False,0,above,long,True,False,0.061,10,0,0,0,24496.925
+24497.036,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178082255,809,0,1,0.0,0.0,False,0,above,long,True,False,0.111,10,0,0,0,24496.925

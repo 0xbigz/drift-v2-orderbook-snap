@@ -1,0 +1,11 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+25.25,50.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054612,960,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,23732.318988
+26.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054219,956,0,1,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,23732.318988
+28.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054386,958,0,1,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,23732.318988
+28.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054474,959,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,23732.318988
+23732.107988,100.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164390,5295,0,1,0.0,0.0,False,0,above,long,True,False,-0.211,10,0,0,0,23732.318988
+23732.287888,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164576,5297,0,1,0.0,0.0,False,0,above,long,True,False,-0.0311,10,0,0,0,23732.318988
+23732.317888,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178171407,5300,0,1,117.891,2668.136372,False,0,above,long,True,False,-0.0011,10,0,0,0,23732.318988
+23732.320088,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178171407,5301,0,1,636.536,14452.856603,False,0,above,long,True,False,0.0011,10,0,0,0,23732.318988
+23732.350088,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164576,5298,0,1,112.087,2545.398163,False,0,above,long,True,False,0.0311,10,0,0,0,23732.318988
+23732.529988,100.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164390,5296,0,1,0.0,0.0,False,0,above,long,True,False,0.211,10,0,0,0,23732.318988

@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+15000.0,0.001,long,Do6srDEZVY4rifUbTbQxxa8qAZg1sFVfG8Hk49hwR6ui,open,limit,perp,167379124,2,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,24648.0763
+17700.0,0.0363,long,FXEfDCCaLnRRouQZ1Pe7ZCFGQGz7q7gzAMUsRHD3uY5Y,open,limit,perp,172111917,172,0,1,0.0,0.0,True,0,above,short,False,False,0.0,10,0,0,0,24648.0763
+23234.6,0.8822,long,CMJgJAcfa2TRdqsNm1MfhbYGuxZb7JsmcUUbiqapyfxz,open,limit,perp,178153698,171,0,1,0.0,0.0,True,0,above,short,True,False,0.0,10,0,0,0,24648.0763
+23850.0,0.011,long,GFSHSbQ5obdNV5g9bT5bToMgmAvYqen8SRrJ1wiMo4Ps,open,limit,perp,178278273,84,0,1,0.0,0.0,True,0,above,short,False,False,0.0,10,0,0,0,24648.0763
+24656.607852,0.7371,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178300913,1073785,0,1,0.0,0.0,False,0,above,long,True,False,8.531552,10,0,0,0,24648.0763
+24656.607852,0.3071,short,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,perp,178300900,83306,0,1,0.0,0.0,False,0,above,long,True,False,8.531552,10,0,0,0,24648.0763
+24660.873628,1.1057,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178300913,1073786,0,1,0.0,0.0,False,0,above,long,True,False,12.797328,10,0,0,0,24648.0763
+24660.873628,0.4606,short,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,perp,178300900,83307,0,1,0.0,0.0,False,0,above,long,True,False,12.797328,10,0,0,0,24648.0763
+24665.139404,1.4743,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178300913,1073787,0,1,0.0,0.0,False,0,above,long,True,False,17.063104,10,0,0,0,24648.0763
+25048.0763,0.969,short,5SyESXTaLuf4UUxQ89gdFKc5nf4LhPkSRzPE2VjchVoE,open,limit,perp,173629209,62,0,1,0.0667,1557.01078,False,0,above,long,True,False,400.0,10,0,0,0,24648.0763
+25400.0,0.0287,short,Af6KTNHX2KJvZh8Xjz4pJDPPMdAcKgYuLZk4SXvdmc7z,open,limit,perp,178095988,16,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,24648.0763

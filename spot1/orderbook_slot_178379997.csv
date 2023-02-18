@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+20.5234,79.445,long,8R9K16r2xaN2DF48v56pyrZCuNgT29gpGXTekn5xis1L,open,limit,spot,178372818,1,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,24556.0
+25.25,50.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054612,960,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,24556.0
+26.0,50.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178192665,962,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,24556.0
+26.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054219,956,0,1,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,24556.0
+28.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054386,958,0,1,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,24556.0
+28.5,75.0,short,CBMA8DHcGRtntyvBf6DPWtsmTcSAzucgtzauiNCwQW5x,open,limit,spot,178054474,959,0,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,24556.0
+24555.789,100.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164390,5295,0,1,0.0,0.0,False,0,above,long,True,False,-0.211,10,0,0,0,24556.0
+24555.9689,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164576,5297,0,1,241.524,5579.14084,False,0,above,long,True,False,-0.0311,10,0,0,0,24556.0
+24556.031,200.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178236245,5311,0,1,26.753,625.92389,False,0,above,long,True,False,0.031,10,0,0,0,24556.0
+24556.0311,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164576,5298,0,1,112.087,2545.398163,False,0,above,long,True,False,0.0311,10,0,0,0,24556.0
+24556.211,100.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,178164390,5296,0,1,0.0,0.0,False,0,above,long,True,False,0.211,10,0,0,0,24556.0

@@ -1,0 +1,14 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+15000.0,0.001,long,Do6srDEZVY4rifUbTbQxxa8qAZg1sFVfG8Hk49hwR6ui,open,limit,perp,167379124,2,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,24494.007883
+17700.0,0.0363,long,FXEfDCCaLnRRouQZ1Pe7ZCFGQGz7q7gzAMUsRHD3uY5Y,open,limit,perp,172111917,172,0,1,0.0,0.0,True,0,above,short,False,False,0.0,10,0,0,0,24494.007883
+23234.6,0.8822,long,CMJgJAcfa2TRdqsNm1MfhbYGuxZb7JsmcUUbiqapyfxz,open,limit,perp,178153698,171,0,1,0.0,0.0,True,0,above,short,True,False,0.0,10,0,0,0,24494.007883
+24470.609111,0.0032,long,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178699377,1130197,0,1,0.0,0.0,False,0,above,short,False,False,-23.398772,10,0,0,0,24494.007883
+24491.265692,0.0081,short,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,perp,178699357,266330,0,1,0.0,0.0,False,0,above,long,True,False,-2.742191,10,0,0,0,24494.007883
+24491.365892,0.0014,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178699377,1130196,0,1,0.0,0.0,False,0,above,short,True,False,-2.641991,10,0,0,0,24494.007883
+24499.313327,0.3022,short,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,perp,178699357,266331,0,1,0.0,0.0,False,0,above,long,True,False,5.305444,10,0,0,0,24494.007883
+24500.815431,0.6997,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178699377,1130198,0,1,0.0,0.0,False,0,above,short,True,False,6.807548,10,0,0,0,24494.007883
+24501.966049,0.4534,short,DuJRUX93NQ5DB14XkfB47pWKjVtfD4gCvYnHS2a9Diur,open,limit,perp,178699357,266332,0,1,0.0,0.0,False,0,above,long,True,False,7.958166,10,0,0,0,24494.007883
+24504.219205,1.0496,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178699377,1130199,0,1,0.0,0.0,False,0,above,short,True,False,10.211322,10,0,0,0,24494.007883
+24507.622979,1.3995,short,7FJmWzzfZTaF32wz4LWJhHqrtgnQEZL2YUmMH3a9Dcau,open,limit,perp,178699377,1130200,0,1,0.0,0.0,False,0,above,short,True,False,13.615096,10,0,0,0,24494.007883
+24894.007883,0.969,short,5SyESXTaLuf4UUxQ89gdFKc5nf4LhPkSRzPE2VjchVoE,open,limit,perp,173629209,62,0,1,0.0667,1557.01078,False,0,above,long,True,False,400.0,10,0,0,0,24494.007883
+25058.4,0.0009,short,8nTjRBGwDRMTenNaJSCeE4McJzMoxYxqfwUnvwCJmixv,open,limit,perp,178597920,4787,21,1,0.0,0.0,True,0,above,long,True,False,0.0,10,0,0,0,24494.007883

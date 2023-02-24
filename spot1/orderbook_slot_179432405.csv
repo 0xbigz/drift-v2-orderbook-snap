@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+10.0,48.616,long,GVZdE1t9jMKZ4rJQZcboy2HxkUjvJAe4abc9wy9fRX5z,open,limit,spot,179029041,67,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,23356.54
+13.7965,1.0,long,Bs8U8MhgjhaEUbFneHGXJHWvUdaePdny1EuSDSb8v6Pg,open,limit,spot,179316759,106,0,1,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,23356.54
+22.5,27.359,long,81FrKvcsVTnq7jCNFfX4iws2xJ6Q67eFCu6tMTwGvH3p,open,limit,spot,179282087,30,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,23356.54
+23356.5049,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7059,0,1,0.0,0.0,False,0,above,long,False,False,-0.0351,10,0,0,0,23356.54
+23356.5125,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7057,0,1,0.0,0.0,False,0,above,long,True,False,-0.0275,10,0,0,0,23356.54
+23356.529,750.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7055,0,1,0.0,0.0,False,0,above,long,True,False,-0.011,10,0,0,0,23356.54
+23356.5399,500.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7053,0,1,386.484,8931.870235,False,0,above,long,True,False,-0.0001,10,0,0,0,23356.54
+23356.5401,500.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7054,0,1,14.536,336.112001,False,0,above,long,True,False,0.0001,10,0,0,0,23356.54
+23356.551,750.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7056,0,1,0.0,0.0,False,0,above,long,True,False,0.011,10,0,0,0,23356.54
+23356.5675,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7058,0,1,0.0,0.0,False,0,above,long,True,False,0.0275,10,0,0,0,23356.54
+23356.5751,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179431475,7060,0,1,0.0,0.0,False,0,above,long,True,False,0.0351,10,0,0,0,23356.54

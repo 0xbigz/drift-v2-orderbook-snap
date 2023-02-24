@@ -1,0 +1,13 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+11.0,48.0,long,GVZdE1t9jMKZ4rJQZcboy2HxkUjvJAe4abc9wy9fRX5z,open,limit,spot,179441438,71,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,281474976710656,23059.553574
+13.7965,1.0,long,Bs8U8MhgjhaEUbFneHGXJHWvUdaePdny1EuSDSb8v6Pg,open,limit,spot,179316759,106,0,1,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,23059.553574
+22.5,27.359,long,81FrKvcsVTnq7jCNFfX4iws2xJ6Q67eFCu6tMTwGvH3p,open,limit,spot,179282087,30,0,1,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,23059.553574
+23059.513474,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7154,0,1,0.0,0.0,False,0,above,long,False,False,-0.0401,10,0,0,0,23059.553574
+23059.521074,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7152,0,1,0.0,0.0,False,0,above,long,True,False,-0.0325,10,0,0,0,23059.553574
+23059.537574,750.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7150,0,1,0.0,0.0,False,0,above,long,True,False,-0.016,10,0,0,0,23059.553574
+23059.548474,500.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7148,0,1,93.791,2143.926809,False,0,above,long,True,False,-0.0051,10,0,0,0,23059.553574
+23059.548574,131.294,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7147,0,1,126.062,2881.790807,False,0,above,long,False,False,-0.005,10,0,0,0,23059.553574
+23059.548674,500.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7149,0,1,0.0,0.0,False,0,above,long,True,False,-0.0049,10,0,0,0,23059.553574
+23059.559574,750.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7151,0,1,0.0,0.0,False,0,above,long,True,False,0.006,10,0,0,0,23059.553574
+23059.576074,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7153,0,1,0.0,0.0,False,0,above,long,True,False,0.0225,10,0,0,0,23059.553574
+23059.583674,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179454896,7155,0,1,0.0,0.0,False,0,above,long,True,False,0.0301,10,0,0,0,23059.553574

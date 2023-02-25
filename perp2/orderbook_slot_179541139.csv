@@ -40,5 +40,5 @@ price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,us
 1738.0,0.25,short,AfwkKpPoesK41C318AjMQYqiKDAyxNzZKLFCcdik4TF6,open,limit,perp,178844866,16,0,2,0.0,0.0,True,0,above,long,False,False,0.0,10,0,0,0,1596.73
 1784.0,0.001,short,8LG4ms1XVgZ5aCJ1ZSD9kXGtU2agqSYK7tWnegUGSoZZ,open,limit,perp,177964792,292,0,2,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,1596.73
 1796.73,5.696,short,5SyESXTaLuf4UUxQ89gdFKc5nf4LhPkSRzPE2VjchVoE,open,limit,perp,173629209,63,0,2,0.0,0.0,False,0,above,long,True,False,200.0,10,0,0,0,1596.73
-1800.0,0.001,short,7Ux6bzCEPy6WSnT6dXVaGM6jUxvhn1q1eCp9uSUCRu5U,open,limit,perp,175471406,4,0,2,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,1596.73
 1800.0,0.008,short,Do6srDEZVY4rifUbTbQxxa8qAZg1sFVfG8Hk49hwR6ui,open,limit,perp,172407075,11,0,2,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,1596.73
+1800.0,0.001,short,7Ux6bzCEPy6WSnT6dXVaGM6jUxvhn1q1eCp9uSUCRu5U,open,limit,perp,175471406,4,0,2,0.0,0.0,False,0,above,long,False,False,0.0,10,0,0,0,1596.73

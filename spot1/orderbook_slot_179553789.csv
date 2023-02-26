@@ -1,0 +1,7 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+13.7965,1.0,long,Bs8U8MhgjhaEUbFneHGXJHWvUdaePdny1EuSDSb8v6Pg,open,limit,spot,179316759,106,0,1,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,23209.015
+23208.9799,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179529083,7192,0,1,0.0,0.0,False,0,above,long,False,False,-0.0351,0,0,0,0,23209.015
+23208.9875,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179529083,7190,0,1,0.0,0.0,False,0,above,long,True,False,-0.0275,0,0,0,0,23209.015
+23209.004,750.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179529083,7188,0,1,109.554,2455.992866,False,0,above,long,True,False,-0.011,0,0,0,0,23209.015
+23209.0425,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179529083,7191,0,1,451.818,10242.226529,False,0,above,long,True,False,0.0275,0,0,0,0,23209.015
+23209.0501,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,179529083,7193,0,1,0.0,0.0,False,0,above,long,True,False,0.0351,0,0,0,0,23209.015

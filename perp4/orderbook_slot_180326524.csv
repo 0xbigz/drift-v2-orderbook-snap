@@ -1,0 +1,13 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+0.611025,2857.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13501,0,4,0.0,0.0,False,0,above,short,True,False,-0.083075,0,0,0,0,0.6941
+0.631019,2142.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13500,0,4,0.0,0.0,False,0,above,short,True,False,-0.063081,0,0,0,0,0.6941
+0.651013,1428.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13499,0,4,0.0,0.0,False,0,above,short,True,False,-0.043087,0,0,0,0,0.6941
+0.671007,288.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13498,0,4,0.0,0.0,False,0,above,short,True,False,-0.023093,0,0,0,0,0.6941
+0.689744,115.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13503,0,4,0.0,0.0,False,0,above,short,False,False,-0.004356,0,0,0,0,0.6941
+0.6909,50.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13502,0,4,0.0,0.0,False,0,above,short,True,False,-0.0032,0,0,0,0,0.6941
+0.6909,7237.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,perp,180271372,17,0,4,2598.0,1795.374031,False,0,above,short,False,False,0.0,0,0,0,0,0.6941
+0.6941,5000.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,perp,180270700,13,0,4,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,0.6941
+0.694472,1423.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13504,0,4,0.0,0.0,False,0,above,short,True,False,0.000372,0,0,0,0,0.6941
+0.694658,2134.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13505,0,4,0.0,0.0,False,0,above,short,True,False,0.000558,0,0,0,0,0.6941
+0.694844,2846.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180326500,13506,0,4,0.0,0.0,False,0,above,short,True,False,0.000744,0,0,0,0,0.6941
+0.6981,5000.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,perp,180270736,14,0,4,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,0.6941

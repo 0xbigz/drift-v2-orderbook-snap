@@ -1,0 +1,16 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+13.7965,1.0,long,Bs8U8MhgjhaEUbFneHGXJHWvUdaePdny1EuSDSb8v6Pg,open,limit,spot,179316759,106,0,1,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,23294.147526
+20.0,0.25,long,DBt2mGXv7pbUpaGYkHwM9tKGFksUUsfQrkckotxSEr9X,open,limit,spot,179579354,62,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,23294.147526
+20.0,2.5,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554616,121,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+20.25,2.469,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554597,120,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+20.5,2.439,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554573,119,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+20.75,2.409,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554555,118,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+21.0,2.38,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554419,117,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+21.25,2.352,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554402,116,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+21.5,2.325,long,HzXSpf2Y5doZVtQfiWxVpLzs1zqFNZibYTLUt9ZAERmR,open,limit,spot,179554381,115,0,1,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,23294.147526
+22.03,400.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,spot,180271221,16,0,1,0.0,0.0,True,0,above,long,False,False,0.0,0,0,0,0,23294.147526
+26.2,3.3,short,569xVWPW5d5D1VqUtB5JSiV1tjjTvTBvM25njrRp2acE,open,limit,spot,179615098,28,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,23294.147526
+23294.107426,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,180184238,7458,0,1,0.0,0.0,False,0,above,long,False,False,-0.0401,0,0,0,0,23294.147526
+23294.115026,1000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,180184238,7456,0,1,250.085,5607.829328,False,0,above,long,True,False,-0.0325,0,0,0,0,23294.147526
+23294.170026,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,180184238,7457,0,1,113.468,2497.881952,False,0,above,long,True,False,0.0225,0,0,0,0,23294.147526
+23294.177626,1000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,180184238,7459,0,1,0.0,0.0,False,0,above,long,True,False,0.0301,0,0,0,0,23294.147526

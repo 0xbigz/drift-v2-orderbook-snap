@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+0.610911,2839.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5395,0,4,0.0,0.0,False,0,above,long,True,False,-0.081289,0,0,0,0,0.6922
+0.630908,2129.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5394,0,4,0.0,0.0,False,0,above,long,True,False,-0.061292,0,0,0,0,0.6922
+0.650906,1419.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5393,0,4,0.0,0.0,False,0,above,long,True,False,-0.041294,0,0,0,0,0.6922
+0.670903,50.0,long,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5391,0,4,0.0,0.0,False,0,above,long,True,False,-0.021297,0,0,0,0,0.6922
+0.6908,288.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5396,0,4,0.0,0.0,False,0,above,long,True,False,-0.0014,0,0,0,0,0.6922
+0.6909,7237.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,perp,180271372,17,0,4,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,0.6922
+0.693484,1429.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5397,0,4,0.0,0.0,False,0,above,long,True,False,0.001284,0,0,0,0,0.6922
+0.6941,5000.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,perp,180270700,13,0,4,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,0.6922
+0.694126,2143.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5398,0,4,0.0,0.0,False,0,above,long,True,False,0.001926,0,0,0,0,0.6922
+0.694768,2858.0,short,avy7oaMWEzY421pJWYttAWJ8VtMXXyPbWFiqyEHuQ7Q,open,limit,perp,180271710,5399,0,4,0.0,0.0,False,0,above,long,True,False,0.002568,0,0,0,0,0.6922
+0.6981,5000.0,short,EgVjLV1PwVoDgPFnStoq9cYAZrh7ZCdhFGdWaquKq9Gc,open,limit,perp,180270736,14,0,4,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,0.6922

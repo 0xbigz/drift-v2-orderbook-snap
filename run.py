@@ -10,7 +10,12 @@ market_to_oracle_map
 df = pd.DataFrame([order['order'] for order in x['orders']])
 user = pd.DataFrame([order['user'] for order in x['orders']], columns=['user'])
 df = pd.concat([df, user],axis=1)
-df['oraclePrice'] = df['marketIndex'].apply(lambda x: market_to_oracle_map[x])
+df['oraclePrice'] = None
+df.loc[df.marketType=='perp', 'oraclePrice'] = df.loc[df.marketType=='perp', 'marketIndex'].apply(lambda x: market_to_oracle_map[x])
+
+#todo, invariant may change w/ future spot markets
+df.loc[df.marketType=='spot', 'oraclePrice'] = df.loc[df.marketType=='spot', 'marketIndex'].apply(lambda x: market_to_oracle_map[int(x)-1])
+
 df1 = df[(df.orderType=='limit')]
 df1.loc[df1['price'].astype(int)==0, 'price'] = df1['oraclePrice'].astype(int) + df1['oraclePriceOffset'].astype(int)
 

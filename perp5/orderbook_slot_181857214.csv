@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+0.966197,3837.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,742,0,5,0.0,0.0,False,0,above,short,True,False,-0.061203,0,0,0,0,1.0274
+0.986235,2877.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,741,0,5,0.0,0.0,False,0,above,short,True,False,-0.041165,0,0,0,0,1.0274
+1.006273,1918.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,740,0,5,0.0,0.0,False,0,above,short,True,False,-0.021127,0,0,0,0,1.0274
+1.012,100.0,long,6gUMAFtqb1JigRq6FxFYLz3bsR9iHYn4jY8mbPZdSeBZ,open,limit,perp,181854183,39,0,5,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,1.0274
+1.026311,959.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,739,0,5,0.0,0.0,False,0,above,short,True,False,-0.001089,0,0,0,0,1.0274
+1.029703,744.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,744,0,5,0.0,0.0,False,0,above,short,False,False,0.002303,0,0,0,0,1.0274
+1.031416,325.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,743,0,5,0.0,0.0,False,0,above,short,True,False,0.004016,0,0,0,0,1.0274
+1.0469,418.0,short,HTnPYfHUNBDM9LZdSoz1gvUZao5SvqmWzqBVEDzQdVZr,open,limit,perp,181853763,67,0,5,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,1.0274
+1.051384,1913.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,745,0,5,0.0,0.0,False,0,above,short,True,False,0.023984,0,0,0,0,1.0274
+1.071352,2870.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,746,0,5,0.0,0.0,False,0,above,short,True,False,0.043952,0,0,0,0,1.0274
+1.09132,3827.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181857168,747,0,5,0.0,0.0,False,0,above,short,True,False,0.06392,0,0,0,0,1.0274

@@ -1,0 +1,13 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+13.2,2.2,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,181656402,236,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.85175
+13.7965,1.0,long,Bs8U8MhgjhaEUbFneHGXJHWvUdaePdny1EuSDSb8v6Pg,open,limit,spot,179316759,106,0,1,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,17.85175
+15.0,2.2,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,181656177,235,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.85175
+15.5,3.0,long,HmAFQHyWYEHCCWBmnzkcEeksSs6ak5ypy8gKcWLLjBFx,open,limit,spot,181526067,427,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.85175
+17.81165,500.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8132,0,1,0.0,0.0,False,0,above,long,False,False,-0.0401,0,0,0,0,17.85175
+17.81925,500.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8130,0,1,0.0,0.0,False,0,above,long,True,False,-0.0325,0,0,0,0,17.85175
+17.83575,1250.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8128,0,1,0.0,0.0,False,0,above,long,True,False,-0.016,0,0,0,0,17.85175
+17.84665,2000.0,long,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8126,0,1,324.581,5733.170718,False,0,above,long,True,False,-0.0051,0,0,0,0,17.85175
+17.84685,2000.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8127,0,1,1965.103,34638.571427,False,0,above,long,True,False,-0.0049,0,0,0,0,17.85175
+17.85775,1250.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8129,0,1,177.651,3141.7598,False,0,above,long,True,False,0.006,0,0,0,0,17.85175
+17.87425,500.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8131,0,1,0.0,0.0,False,0,above,long,True,False,0.0225,0,0,0,0,17.85175
+17.88185,500.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181834045,8133,0,1,0.0,0.0,False,0,above,long,True,False,0.0301,0,0,0,0,17.85175

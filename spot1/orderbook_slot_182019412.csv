@@ -1,0 +1,15 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+13.2,2.2,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,181656402,236,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.404999
+13.7965,1.0,long,Bs8U8MhgjhaEUbFneHGXJHWvUdaePdny1EuSDSb8v6Pg,open,limit,spot,179316759,106,0,1,0.0,0.0,False,0,above,short,False,False,0.0,10,0,0,0,17.404999
+15.0,2.2,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,181656177,235,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.404999
+15.5,3.0,long,HmAFQHyWYEHCCWBmnzkcEeksSs6ak5ypy8gKcWLLjBFx,open,limit,spot,181526067,427,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.404999
+16.0,4.0,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,182007068,266,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.404999
+17.2,2.0,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,181979614,257,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.404999
+18.0,9.0,long,9umNNVHtkAAxNAWDu2FFTadgdSr3cPkF2QGmcsG1pqhB,open,limit,spot,182005846,265,0,1,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,17.404999
+19.405099,50.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181980839,8176,0,1,0.0,0.0,False,0,above,long,True,False,2.0001,0,0,0,0,17.404999
+19.415999,50.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181980839,8178,0,1,0.0,0.0,False,0,above,long,True,False,2.011,0,0,0,0,17.404999
+19.432499,50.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181980839,8180,0,1,0.0,0.0,False,0,above,long,True,False,2.0275,0,0,0,0,17.404999
+19.440099,50.0,short,EnJACXLsChGp7AAJZ2Hu47kRoVYsRM2JjtU1knPxvwn7,open,limit,spot,181980839,8182,0,1,0.0,0.0,False,0,above,long,True,False,2.0351,0,0,0,0,17.404999
+22.22,25.007,short,7pPXa2Wjf4fMU6bjALndNXc38ok7JwBPxd8UU1niZA97,open,limit,spot,181975514,186,0,1,0.0,0.0,True,0,above,long,False,False,0.0,0,0,0,0,17.404999
+23.23,25.0,short,7pPXa2Wjf4fMU6bjALndNXc38ok7JwBPxd8UU1niZA97,open,limit,spot,181975548,187,0,1,0.0,0.0,True,0,above,long,False,False,0.0,0,0,0,0,17.404999
+50.0,0.52,short,FLaBsbhnukweeYm443yTsWiRJvquqTLXRhy5SW2PHLJj,open,limit,spot,181971257,2,0,1,0.0,0.0,True,0,above,long,False,False,0.0,0,0,0,0,17.404999

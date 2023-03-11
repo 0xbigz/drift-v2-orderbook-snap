@@ -1,0 +1,11 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+1.03,48.0,long,569xVWPW5d5D1VqUtB5JSiV1tjjTvTBvM25njrRp2acE,open,limit,perp,181875278,61,0,5,5.0,5.15,False,0,above,long,False,False,0.0,0,0,0,0,1.076821
+1.050829,3661.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7227,0,5,0.0,0.0,False,0,above,short,True,False,-0.025992,0,0,0,0,1.076821
+1.070938,2746.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7226,0,5,0.0,0.0,False,0,above,short,True,False,-0.005883,0,0,0,0,1.076821
+1.073189,1830.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7225,0,5,0.0,0.0,False,0,above,short,True,False,-0.003632,0,0,0,0,1.076821
+1.075005,915.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7224,0,5,0.0,0.0,False,0,above,short,True,False,-0.001816,0,0,0,0,1.076821
+1.076928,711.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7229,0,5,0.0,0.0,False,0,above,short,False,False,0.000107,0,0,0,0,1.076821
+1.078722,311.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7228,0,5,0.0,0.0,False,0,above,short,True,False,0.001901,0,0,0,0,1.076821
+1.080623,1733.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7230,0,5,0.0,0.0,False,0,above,short,True,False,0.003802,0,0,0,0,1.076821
+1.089629,2599.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7231,0,5,0.0,0.0,False,0,above,short,True,False,0.012808,0,0,0,0,1.076821
+1.109535,3466.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,181914485,7232,0,5,0.0,0.0,False,0,above,short,True,False,0.032714,0,0,0,0,1.076821

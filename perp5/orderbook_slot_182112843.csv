@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+1.0,1000.0,long,3ukMbhLimgZcomrqttvww4E12FB9cfc11htXoQ2MWyGf,open,limit,perp,182112452,28,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.060284
+1.051,20.0,long,2h2okJCEZECNTbdc3kMgjhcJ8nt6wYGK71xCQZ6xqhGj,open,limit,perp,182066645,646,0,5,0.0,0.0,False,0,above,long,True,False,0.0,0,0,0,0,1.060284
+1.058492,3544.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31472,0,5,0.0,0.0,False,0,above,long,True,False,-0.001792,0,0,0,0,1.060284
+1.05894,2658.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31471,0,5,0.0,0.0,False,0,above,long,True,False,-0.001344,0,0,0,0,1.060284
+1.059388,1772.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31470,0,5,0.0,0.0,False,0,above,long,True,False,-0.000896,0,0,0,0,1.060284
+1.059836,315.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31468,0,5,0.0,0.0,False,0,above,long,True,False,-0.000448,0,0,0,0,1.060284
+1.061603,721.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31469,0,5,0.0,0.0,False,0,above,long,False,False,0.001319,0,0,0,0,1.060284
+1.070531,931.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31473,0,5,0.0,0.0,False,0,above,long,True,False,0.010247,0,0,0,0,1.060284
+1.090512,1862.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31474,0,5,0.0,0.0,False,0,above,long,True,False,0.030228,0,0,0,0,1.060284
+1.110492,2793.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31475,0,5,0.0,0.0,False,0,above,long,True,False,0.050208,0,0,0,0,1.060284
+1.130473,3724.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182112798,31476,0,5,0.0,0.0,False,0,above,long,True,False,0.070189,0,0,0,0,1.060284

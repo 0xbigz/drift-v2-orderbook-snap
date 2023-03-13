@@ -1,0 +1,15 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+1.0,1000.0,long,3ukMbhLimgZcomrqttvww4E12FB9cfc11htXoQ2MWyGf,open,limit,perp,182112452,28,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.107772
+1.02,30.0,long,6Y5JictaCU9nqiJog62mggKbU6GL1JyDQ4ENSNm2LBhP,open,limit,perp,182348441,8,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.107772
+1.06,33.0,long,6Y5JictaCU9nqiJog62mggKbU6GL1JyDQ4ENSNm2LBhP,open,limit,perp,182348349,7,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.107772
+1.101,240.0,long,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,182336263,155,0,5,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,1.107772
+1.103592,3296.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64221,0,5,0.0,0.0,False,0,above,long,True,False,-0.00418,0,0,0,0,1.107772
+1.104637,2472.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64220,0,5,0.0,0.0,False,0,above,long,True,False,-0.003135,0,0,0,0,1.107772
+1.105682,1648.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64219,0,5,0.0,0.0,False,0,above,long,True,False,-0.00209,0,0,0,0,1.107772
+1.106727,302.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64217,0,5,0.0,0.0,False,0,above,long,True,False,-0.001045,0,0,0,0,1.107772
+1.108571,691.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64218,0,5,0.0,0.0,False,0,above,long,False,False,0.000799,0,0,0,0,1.107772
+1.121874,876.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64222,0,5,0.0,0.0,False,0,above,long,True,False,0.014102,0,0,0,0,1.107772
+1.141862,1752.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64223,0,5,0.0,0.0,False,0,above,long,True,False,0.03409,0,0,0,0,1.107772
+1.16185,2628.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64224,0,5,0.0,0.0,False,0,above,long,True,False,0.054078,0,0,0,0,1.107772
+1.181838,3504.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182351742,64225,0,5,0.0,0.0,False,0,above,long,True,False,0.074066,0,0,0,0,1.107772
+1.189,1500.0,short,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,182239521,139,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.107772

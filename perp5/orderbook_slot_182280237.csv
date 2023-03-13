@@ -1,0 +1,15 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+1.0,1000.0,long,3ukMbhLimgZcomrqttvww4E12FB9cfc11htXoQ2MWyGf,open,limit,perp,182112452,28,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.149291
+1.101,250.0,long,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,182242386,144,0,5,0.0,0.0,False,0,above,short,False,False,0.0,0,0,0,0,1.149291
+1.108971,3396.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54965,0,5,0.0,0.0,False,0,above,short,True,False,-0.04032,0,0,0,0,1.149291
+1.111,250.0,long,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,182242362,143,0,5,5.0,5.555,False,0,above,short,False,False,0.0,0,0,0,0,1.149291
+1.129051,2547.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54964,0,5,0.0,0.0,False,0,above,short,True,False,-0.02024,0,0,0,0,1.149291
+1.147635,1698.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54963,0,5,0.0,0.0,False,0,above,short,True,False,-0.001656,0,0,0,0,1.149291
+1.1487,223.0,long,HTnPYfHUNBDM9LZdSoz1gvUZao5SvqmWzqBVEDzQdVZr,open,limit,perp,182280147,160,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.149291
+1.14909,849.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54962,0,5,0.0,0.0,False,0,above,short,True,False,-0.000201,0,0,0,0,1.149291
+1.167074,666.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54967,0,5,0.0,0.0,False,0,above,short,False,False,0.017783,0,0,0,0,1.149291
+1.168989,291.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54966,0,5,0.0,0.0,False,0,above,short,True,False,0.019698,0,0,0,0,1.149291
+1.188988,1676.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54968,0,5,0.0,0.0,False,0,above,short,True,False,0.039697,0,0,0,0,1.149291
+1.189,1500.0,short,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,182239521,139,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.149291
+1.208988,2515.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54969,0,5,0.0,0.0,False,0,above,short,True,False,0.059697,0,0,0,0,1.149291
+1.228987,3353.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182280173,54970,0,5,0.0,0.0,False,0,above,short,True,False,0.079696,0,0,0,0,1.149291

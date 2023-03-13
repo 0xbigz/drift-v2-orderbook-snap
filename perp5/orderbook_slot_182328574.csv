@@ -1,0 +1,12 @@
+price,baseAssetAmount,direction,user,status,orderType,marketType,slot,orderId,userOrderId,marketIndex,baseAssetAmountFilled,quoteAssetAmountFilled,reduceOnly,triggerPrice,triggerCondition,existingPositionDirection,postOnly,immediateOrCancel,oraclePriceOffset,auctionDuration,auctionStartPrice,auctionEndPrice,maxTs,oraclePrice
+1.0,1000.0,long,3ukMbhLimgZcomrqttvww4E12FB9cfc11htXoQ2MWyGf,open,limit,perp,182112452,28,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.126486
+1.109691,3224.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60772,0,5,0.0,0.0,False,0,above,long,True,False,-0.016795,0,0,0,0,1.126486
+1.12258,2418.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60771,0,5,0.0,0.0,False,0,above,long,True,False,-0.003906,0,0,0,0,1.126486
+1.123882,1612.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60770,0,5,0.0,0.0,False,0,above,long,True,False,-0.002604,0,0,0,0,1.126486
+1.125184,297.0,long,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60768,0,5,0.0,0.0,False,0,above,long,True,False,-0.001302,0,0,0,0,1.126486
+1.127059,680.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60769,0,5,0.0,0.0,False,0,above,long,False,False,0.000573,0,0,0,0,1.126486
+1.12772,858.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60773,0,5,0.0,0.0,False,0,above,long,True,False,0.001234,0,0,0,0,1.126486
+1.128954,1716.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60774,0,5,0.0,0.0,False,0,above,long,True,False,0.002468,0,0,0,0,1.126486
+1.130188,2574.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60775,0,5,0.0,0.0,False,0,above,long,True,False,0.003702,0,0,0,0,1.126486
+1.131422,3433.0,short,2BGgZ7MhSDQuctCixjCCY9KNow8Nmt9ann69RY7NT78k,open,limit,perp,182328554,60776,0,5,0.0,0.0,False,0,above,long,True,False,0.004936,0,0,0,0,1.126486
+1.189,1500.0,short,CrMW8n5YEBhMAMfYHu5xxSe4c7wQt6byBXse6y4STbYe,open,limit,perp,182239521,139,0,5,0.0,0.0,False,0,above,long,False,False,0.0,0,0,0,0,1.126486
